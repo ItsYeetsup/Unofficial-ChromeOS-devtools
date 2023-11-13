@@ -1,2 +1,7 @@
-# Unofficial-ChromeOS-devtools
-Unofficial ChromeOS developer mode tools archive. Includes stuff like crouton, customization tools, BI/OS tools, and guides. Original authors of tools are credited.
+# Unofficial ChromeOS devtools
+
+*"For lack of a better name"*
+
+This repository is a uhhhmmm *mash-up(?)* of multiple different repositories. This repository includes links to repositories in the `repos` branch, resources in the `resources` branch, and guides in the `guides` branch.
+
+Important announcements are shown in the `IMPORTANT` folder and here.
