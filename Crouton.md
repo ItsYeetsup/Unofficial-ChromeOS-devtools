@@ -7,4 +7,4 @@ crouton is a set of scripts that bundle up into an easy-to-use, Chromium OS-cent
 
 ---
 
-Repository created by [dnshneid](https://github.com/dnschneid).
+Repository created by [dnschneid](https://github.com/dnschneid).
